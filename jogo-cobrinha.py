@@ -1,3 +1,5 @@
+# Jogo ainda em desenvolvimento
+
 import curses
 
 def gameLoop(window):
